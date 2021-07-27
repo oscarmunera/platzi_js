@@ -1,2 +1,10 @@
 # platzi_js
 Ejercicios del curso de JS Práctico(Full Stack - JS Challenge)
+
+...
+## Taller #1: Figuras geométricas
+
+- Primer paso: Definir las fórmulas
+- Segundo paso: Implementar las fórmulas en JavaScrip
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML 
