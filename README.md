@@ -7,4 +7,11 @@ Ejercicios del curso de JS Práctico(Full Stack - JS Challenge)
 - Primer paso: Definir las fórmulas
 - Segundo paso: Implementar las fórmulas en JavaScrip
 - Tercer paso: crear funciones
-- Cuarto paso: integrar JS con HTML 
+- Cuarto paso: integrar JS con HTML
+
+## Taller #2 : Porcentajes y descuentos
+
+- Primer paso: Definir las fórmulas
+- Segundo paso: Implementar las fórmulas en JavaScrip
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
