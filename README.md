@@ -15,3 +15,10 @@ Ejercicios del curso de JS Práctico(Full Stack - JS Challenge)
 - Segundo paso: Implementar las fórmulas en JavaScrip
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
+
+## Taller #3 : Promedio, mediana y moda
+
+- Primer paso: Definir las fórmulas
+- Segundo paso: Implementar las fórmulas en JavaScrip
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
