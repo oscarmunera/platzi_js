@@ -31,7 +31,6 @@ function areaCirculo (radio){
 }
 
 function AlturaIsosceles(lado1,lado2,lado3){
-
     if (lado1 === lado2 ) {
         if(lado1!=lado3){
             const base = lado3;
@@ -49,18 +48,11 @@ function AlturaIsosceles(lado1,lado2,lado3){
                 const base =lado1;
                 return altura = Math.sqrt((lado2*lado3)-(base/2)*(base/2));
             }
-
-        else {
-            console.log("No es triángulo isoscéles");
         }
-
-    }
-else {
+    else {
     console.log("No es triángulo isoscéles");
-}
-   
-    
-}
+    }        
+};
 
 function calcularPerimetroCuadrado(){
     const input =document.getElementById("InputCuadrado");
